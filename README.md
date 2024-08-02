@@ -31,7 +31,7 @@ After collecting the data, the next step was data cleaning:
    - Removing duplicates
    - Standardizing data formats
 2. **Exporting Data**: Once cleaned, the data was exported to a CSV file for use in subsequent analysis and visualization.
-   - The cleaned data can be found in the `cleaned_data.csv` file.
+   - The cleaned data can be found in the `earthquake_ph_2020_2024.xls` file.
 
 ### Analysis
 Analysis was conducted using Tableau to visualize trends and patterns in the data.
