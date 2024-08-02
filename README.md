@@ -7,8 +7,9 @@ This project provides an in-depth analysis of seismic activity in the Philippine
 - [Introduction](#introduction)
 - [Data Sources](#data-sources)
 - [Methodology](#methodology)
+  - [Data Collection](#data-collection)
+  - [Data Cleaning](#data-cleaning)
 - [Visualization](#visualization)
-
 
 ## Data Sources
 The data used in this analysis is sourced from:
@@ -31,8 +32,10 @@ After collecting the data, the next step was data cleaning:
    - Standardizing data formats
 2. **Exporting Data**: Once cleaned, the data was exported to a CSV file for use in subsequent analysis and visualization.
    - The cleaned data can be found in the `cleaned_data.csv` file.
-3. **Analysis**: Analysis was conducted using Tableau to visualize trends and patterns in the data.
+
+### Analysis
+Analysis was conducted using Tableau to visualize trends and patterns in the data.
 
 ## Visualization
-The results of the analysis are visualized using Tableau. View the interactive dashboards and visualizations
-[Sample Visualization](https://public.tableau.com/app/profile/restituto.rodeo/viz/Philippine_Earthquake_Data2020-2024/Dashboard1)
+The results of the analysis are visualized using Tableau. View the interactive dashboards and visualizations below:
+![Sample Visualization](https://public.tableau.com/app/profile/restituto.rodeo/viz/Philippine_Earthquake_Data2020-2024/Dashboard1)
