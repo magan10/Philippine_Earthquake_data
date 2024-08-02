@@ -38,4 +38,4 @@ Analysis was conducted using Tableau to visualize trends and patterns in the dat
 
 ## Visualization
 The results of the analysis are visualized using Tableau. View the interactive dashboards and visualizations below:
-![Sample Visualization](https://public.tableau.com/app/profile/restituto.rodeo/viz/Philippine_Earthquake_Data2020-2024/Dashboard1)
+[Sample Visualization](https://public.tableau.com/app/profile/restituto.rodeo/viz/Philippine_Earthquake_Data2020-2024/Dashboard1)
