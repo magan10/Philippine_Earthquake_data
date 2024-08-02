@@ -35,4 +35,4 @@ After collecting the data, the next step was data cleaning:
 
 ## Visualization
 The results of the analysis are visualized using Tableau. View the interactive dashboards and visualizations
-![Sample Visualization](https://public.tableau.com/app/profile/restituto.rodeo/viz/Philippine_Earthquake_Data2020-2024/Dashboard1)
+[Sample Visualization](https://public.tableau.com/app/profile/restituto.rodeo/viz/Philippine_Earthquake_Data2020-2024/Dashboard1)
